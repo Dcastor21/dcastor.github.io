@@ -129,8 +129,8 @@ const educationInfo = {
       schoolName: "Clayton State University",
       logo: require("./assets/images/CSULogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers."
+      duration: "August 2017 - December 2022",
+      desc: "Took courses about Software Engineering, Artificial Intelligence, Operating Systems, etc."
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -177,19 +177,27 @@ const workExperiences = {
       role: "Software Engineer Intern",
       company: "Outreach",
       companylogo: require("./assets/images/OutreachLogo.jpeg"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "June 2022 – August 2022",
+      desc: "we help revenue organizations to automate sales engagement and act on revenue intelligence to improve their efficiency, predictability, and growth.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Technologies used: Golang, GraphQL, GIthub, DataDog",
+        "Developed and executed testing scripts to debug over 1150 lines of code, contributing to a 90% reduction in software defects and improved product quality.",
+        " Collaborated with cross-functional teams on projects, successfully delivering software solutions on time and within scope.",
+        "Investigated and resolve an average of 10 software bugs per week, reported by users or identified through automated testing, resulting in improved user satisfaction."
       ]
     },
     {
       role: "Technical Support Representative Intern",
       company: "LTI, inc.",
       companylogo: require("./assets/images/LTIincLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "May 2017 – September 2018",
+      desc: "family-owned and operated foodservice equipment designer and manufacturer.",
+      descBullets: [
+        "Provided technical support to customers, troubleshooting and resolving issues related to foodservice equipment.",
+        "Respond to and resolve an average of 25-30 user support inquiries per day through various communication channels, such as phone calls, chats, and emails.",
+        " Collaborate with the IT team to achieve a 90% first-call resolution rate and minimize issue escalation.",
+        "Maintain an up-to-date knowledge base of common issues and solutions, contributing to a 15% reduction in recurring support requests."
+      ]
     }
     // {
     //   role: "Software Engineer Intern",
