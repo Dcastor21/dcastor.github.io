@@ -260,20 +260,17 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Zero to Hero in Python",
+      title: "The Complete Python Bootcamp",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Completed Certification from Pierian Training for Complete Python from Zero to Hero.",
       image: require("./assets/images/udemy.webp"),
-      imageAlt: "Google Code-In Logo",
+      imageAlt: "Udemy Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://ude.my/UC-bc62dacd-1038-43dd-83ae-52ff6edc092e"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
+
         {
           name: "AWS Cloud",
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
@@ -288,25 +285,25 @@ const achievementSection = {
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "View Track Completion Badge",
+          url: "https://skillsoft.digitalbadges.skillsoft.com/e22c6190-d179-40a2-bd41-094d543e5964"
         }
       ]
     }
+
+    // {
+    //   title: "PWA Web App Developer",
+    //   subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+    //   image: require("./assets/images/pwaLogo.webp"),
+    //   imageAlt: "PWA Logo",
+    //   footerLink: [
+    //     {name: "Certification", url: ""},
+    //     {
+    //       name: "Final Project",
+    //       url: "https://pakistan-olx-1.firebaseapp.com/"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
