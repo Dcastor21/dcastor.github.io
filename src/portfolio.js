@@ -380,7 +380,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
+  number: "+1404-771-7591",
   email_address: "darnelcastor2@gmail.com"
 };
 
