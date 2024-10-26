@@ -26,7 +26,7 @@ const greeting = {
     "An aspiring  Full Stack Software Engineer  🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1lzxmJLaZEIRsiorK_Le6i-rGWa-IseLY/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -191,7 +191,7 @@ const workExperiences = {
       company: "LTI, inc.",
       companylogo: require("./assets/images/LTIincLogo.png"),
       date: "May 2017 – September 2018",
-      desc: "family-owned and operated foodservice equipment designer and manufacturer.",
+      desc: "family-owned and operated food service equipment designer and manufacturer.",
       descBullets: [
         "Provided technical support to customers, troubleshooting and resolving issues related to foodservice equipment.",
         "Respond to and resolve an average of 25-30 user support inquiries per day through various communication channels, such as phone calls, chats, and emails.",
@@ -278,7 +278,7 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "AWS Cloud Practitioner",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/awsLogo.webp"),
