@@ -269,11 +269,6 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://ude.my/UC-bc62dacd-1038-43dd-83ae-52ff6edc092e"
-        },
-
-        {
-          name: "AWS Cloud",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
